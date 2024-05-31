@@ -1,4 +1,4 @@
-package com.example.e_commercea
+gitpackage com.example.e_commercea
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
